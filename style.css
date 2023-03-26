@@ -1,0 +1,29 @@
+* { 
+    box-sizing: border-box; 
+    font-family: 'Smokum', cursive;
+    background-image: url(images/horoscope.webp);
+} 
+
+ body {
+    background-color:aqua;
+    display: flex;
+    justify-content: space-between; 
+} 
+h1 {
+   color:white; 
+}
+input {
+    background-color:white; 
+    border-radius:10%; 
+
+}
+button {
+    color:white; 
+    border-radius: 10%; 
+}  
+
+#calculate {
+    color: white;
+}
+
+
